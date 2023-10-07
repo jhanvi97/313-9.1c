@@ -1,0 +1,29 @@
+/* CSS for Login Page */
+
+/* Center the login box vertically and horizontally */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  .box {
+    max-width: 400px; /* Adjust the maximum width as needed */
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  /* Center the form text and button */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Adjust margin for the "Sign up" link */
+  .mt-3 {
+    margin-top: 15px; /* Adjust the margin as needed */
+  }
+  
